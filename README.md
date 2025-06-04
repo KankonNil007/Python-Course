@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Python Learning Journey</title>
 </head>
 <body>
   <h1>🐍 Python Learning Journey</h1>
