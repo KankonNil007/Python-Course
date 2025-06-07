@@ -16,6 +16,13 @@ print(var3)
 var4 = None
 print(var4)
 
+# You can also overwrite a variable
+# Although it will before overwriting it, it will show the previous value
+var0 = 45
+print(var0)
+var0 = 23
+print(var0)
+
 # BODMAS Rule
 var5 = 23
 print(var1 + var5)
@@ -46,3 +53,28 @@ print(list1, tuple1)
 # Mapped / Dictionary Data Type
 dict1 = {"Name": "Kankon", "Age": 20, "CanVote": True}
 print(dict1)
+
+# Casting - You can define the variable what type of variable it is
+
+cast1 = str(5) # cast1 = "5"
+cast2 = int(5) # cast2 = 5
+cast3 = float(5) # cast3 = 5.0
+
+# Assigning Multiple Values to Variables
+x, y, z = "apple", "banana", "mango"
+print(x)
+print(y)
+print(z)
+
+# How to unpack a Collection or List
+
+fruit3 = ["apple", "banana", "mango"]
+x1, y1, z1 = fruit3
+print(x1)
+print(y1)
+print(z1)
+
+# Global Variable
+global var100
+var100 = 23
+# var100 is declared as global variable. So, whenever it is used in function, loop, statements, it will not show any error.
