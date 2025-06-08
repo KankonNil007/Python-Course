@@ -95,3 +95,5 @@ Output:
 ```python
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
+
+![Python Data Types](image.png)

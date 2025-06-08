@@ -78,3 +78,10 @@ print(z1)
 global var100
 var100 = 23
 # var100 is declared as global variable. So, whenever it is used in function, loop, statements, it will not show any error.
+
+
+# Creating a Random Integer Function
+
+import random
+
+print(random.randrange(1, 10))
