@@ -11,3 +11,15 @@ match num:
         print(num, "is greater than 10")
     case _:
         print("The number is ", num)
+
+# Another match Case Example
+
+x = 10
+
+match x:
+    case x if x > 0:
+        print("Positive number")
+    case x if x == 0:
+        print("Zero")
+    case _:
+        print("Negative number")
