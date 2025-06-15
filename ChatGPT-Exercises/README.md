@@ -46,6 +46,10 @@ ChatGPT-Exercises/
       <td><code>conditions</code></td>
       <td>if-else logic building</td>
     </tr>
+        <tr>
+      <td><code>loops</code></td>
+      <td>For Loops, While Loops, Break, Continue</td>
+    </tr>
     <tr>
       <td>(More coming soon...)</td>
       <td></td>
