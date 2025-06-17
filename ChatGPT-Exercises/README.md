@@ -46,9 +46,17 @@ ChatGPT-Exercises/
       <td><code>conditions</code></td>
       <td>if-else logic building</td>
     </tr>
-        <tr>
+    <tr>
       <td><code>loops</code></td>
       <td>For Loops, While Loops, Break, Continue</td>
+    </tr>
+    <tr>
+      <td><code>functions</code></td>
+      <td>More Organized with Functions</td>
+    </tr>
+    <tr>
+      <td><code>lists, tuples</code></td>
+      <td>List and Tuples . More Deep Projects</td>
     </tr>
     <tr>
       <td>(More coming soon...)</td>
