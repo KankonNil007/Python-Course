@@ -6,6 +6,6 @@ def cube(n):
 cube(5)
 print(cube.__doc__)
 
-# PEP-8 : Python Enhancement Program
+# PEP-8 : Python Enhancement Proposal
 
 import this # This prints out "The Zen of Python"
