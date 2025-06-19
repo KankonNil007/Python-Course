@@ -58,6 +58,14 @@ ChatGPT-Exercises/
       <td><code>lists, tuples</code></td>
       <td>List and Tuples . More Deep Projects</td>
     </tr>
+      <tr>
+      <td><code>fstrings, docstrings, recursion</code></td>
+      <td>List and Tuples . Needed for Perfection</td>
+    </tr>
+      <tr>
+      <td><code>sets, dictionaries</code></td>
+      <td>Sets and Dictionaries .Widely Used</td>
+    </tr>
     <tr>
       <td>(More coming soon...)</td>
       <td></td>
