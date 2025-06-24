@@ -48,7 +48,7 @@ ChatGPT-Exercises/
     </tr>
     <tr>
       <td><code>loops</code></td>
-      <td>For Loops, While Loops, Break, Continue</td>
+      <td>For Loops(with else), While Loops, Break, Continue</td>
     </tr>
     <tr>
       <td><code>functions</code></td>
@@ -62,9 +62,15 @@ ChatGPT-Exercises/
       <td><code>fstrings, docstrings, recursion</code></td>
       <td>List and Tuples . Needed for Perfection</td>
     </tr>
-      <tr>
+    <tr>
       <td><code>sets, dictionaries</code></td>
       <td>Sets and Dictionaries .Widely Used</td>
+    </tr>
+      <tr>
+      <td>try, except, finally</td>
+      <td>
+        Added Custom Methods of Try-Except and also Raising Custom Errors
+      </td>
     </tr>
     <tr>
       <td>(More coming soon...)</td>
