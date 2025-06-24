@@ -67,7 +67,7 @@ ChatGPT-Exercises/
       <td>Sets and Dictionaries .Widely Used</td>
     </tr>
       <tr>
-      <td>try, except, finally</td>
+      <td><code>try, except, finally</code></td>
       <td>
         Added Custom Methods of Try-Except and also Raising Custom Errors
       </td>
