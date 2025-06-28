@@ -66,10 +66,16 @@ ChatGPT-Exercises/
       <td><code>sets, dictionaries</code></td>
       <td>Sets and Dictionaries .Widely Used</td>
     </tr>
-      <tr>
+    <tr>
       <td><code>try, except, finally</code></td>
       <td>
         Added Custom Methods of Try-Except and also Raising Custom Errors
+      </td>
+    </tr>
+      <tr>
+      <td><code>File IO, lambda</code></td>
+      <td>
+        map(), filter(), reduce() projects added with Lambda Functions
       </td>
     </tr>
     <tr>
