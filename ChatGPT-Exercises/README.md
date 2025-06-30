@@ -72,10 +72,16 @@ ChatGPT-Exercises/
         Added Custom Methods of Try-Except and also Raising Custom Errors
       </td>
     </tr>
-      <tr>
+    <tr>
       <td><code>File IO, lambda</code></td>
       <td>
         map(), filter(), reduce() projects added with Lambda Functions
+      </td>
+    </tr>
+    <tr>
+      <td><code>OOPs</code></td>
+      <td>
+        classes, objects, constructors, decorators, getters, setters and many more
       </td>
     </tr>
     <tr>
