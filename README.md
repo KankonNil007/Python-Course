@@ -60,7 +60,7 @@ python-learning/
 
   <h2>✅ Status</h2>
   <ul>
-    <li>🔰 Currently learning: Python Basics</li>
+    <li>🔰 Currently learning: Python OOPs</li>
     <li>📅 Started on: June 4, 2025</li>
     <li>🔁 Progress: Updating regularly</li>
   </ul>
