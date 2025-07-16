@@ -22,7 +22,6 @@
     <li>Modules and Packages</li>
     <li>Exception Handling</li>
     <li>Mini Projects</li>
-    <li>Basics of Automation and AI (towards the end)</li>
   </ul>
 
   <h2>🗂️ Repository Structure</h2>
@@ -52,17 +51,17 @@ python-learning/
 
   <h2>🛠 Tools & Technologies</h2>
   <ul>
-    <li>Python 3.x</li>
+    <li>Python 3.13</li>
     <li>VS Code</li>
     <li>Git & GitHub</li>
-    <li>Jupyter Notebook (for some practice)</li>
   </ul>
 
   <h2>✅ Status</h2>
   <ul>
     <li>🔰 Currently learning: Python OOPs</li>
     <li>📅 Started on: June 4, 2025</li>
-    <li>🔁 Progress: Updating regularly</li>
+    <li>📅 Finished on: July 16, 2025</li>
+    <li>🔁 Progress: Finished (Updating Regularly)</li>
   </ul>
 </body>
 </html>
