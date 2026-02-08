@@ -1,146 +1,85 @@
-<h1>ChatGPT Python Exercises</h1>
+# 🤖 ChatGPT Python Exercises Collection
 
-<p>
-This repository contains Python exercises, challenges, and mini-projects guided by ChatGPT during my learning journey.
-All tasks are designed to help solidify key Python concepts, practice real-world problem solving, and prepare for larger projects.
-</p>
+![Python](https://img.shields.io/badge/Python-3.13+-blue?style=for-the-badge&logo=python&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-ChatGPT-green?style=for-the-badge&logo=openai&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Intermediate-orange?style=for-the-badge)
 
-<hr>
+Welcome to the **ChatGPT Exercises** folder! This collection contains a wide variety of Python challenges and mini-programs generated and solved with the help of AI. These exercises are designed to push boundaries, test logic, and explore Python's extensive standard library.
 
-<h2>📁 Folder Structure</h2>
+---
 
-<pre>
-ChatGPT-Exercises/
-├── match_case/
-│   ├── calculator.py
-│   ├── grade_checker.py
-│   └── day_of_week.py
-├── strings/
-│   └── ...
-├── loops/
-│   └── ...
-└── README.md
-</pre>
+## 📚 Topics & Exercises Overview
 
-<hr>
+Explore the exercises categorized by Python concepts:
 
-<h2>✅ Completed Topics</h2>
+### 🔹 [Object-Oriented Programming (OOP)](./OOPs-in-Python)
 
-<table border="1">
-  <thead>
-    <tr>
-      <th>Topic</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><code>match-case</code></td>
-      <td>Python 3.10 pattern matching exercises</td>
-    </tr>
-    <tr>
-      <td><code>input/output</code></td>
-      <td>User interaction via CLI</td>
-    </tr>
-    <tr>
-      <td><code>conditions</code></td>
-      <td>if-else logic building</td>
-    </tr>
-    <tr>
-      <td><code>loops</code></td>
-      <td>For Loops(with else), While Loops, Break, Continue</td>
-    </tr>
-    <tr>
-      <td><code>functions</code></td>
-      <td>More Organized with Functions</td>
-    </tr>
-    <tr>
-      <td><code>lists, tuples</code></td>
-      <td>List and Tuples . More Deep Projects</td>
-    </tr>
-      <tr>
-      <td><code>fstrings, docstrings, recursion</code></td>
-      <td>List and Tuples . Needed for Perfection</td>
-    </tr>
-    <tr>
-      <td><code>sets, dictionaries</code></td>
-      <td>Sets and Dictionaries .Widely Used</td>
-    </tr>
-    <tr>
-      <td><code>try, except, finally</code></td>
-      <td>
-        Added Custom Methods of Try-Except and also Raising Custom Errors
-      </td>
-    </tr>
-    <tr>
-      <td><code>File IO, lambda</code></td>
-      <td>
-        map(), filter(), reduce() projects added with Lambda Functions
-      </td>
-    </tr>
-    <tr>
-      <td><code>OOPs</code></td>
-      <td>
-        classes, objects, constructors, decorators, getters, setters and many more
-      </td>
-    </tr>
-    <tr>
-      <td>(More coming soon...)</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+Mastering classes, objects, inheritance, and encapsulation.
 
-<hr>
+- **🏦 Bank Account Manager**: Simulate deposits, withdrawals, and balance checks.
+- **Employees Management System**: Manage employee records with classes.
+- **Student Grading System**: Calculate grades and averages for students.
+- **Shape Area Calculator**: Using polymorphism to calculate areas of different shapes.
 
-<h2>🔜 Upcoming Additions</h2>
-<ul>
-  <li>📦 File handling tasks</li>
-  <li>🔁 Loop-based challenges</li>
-  <li>🎲 Mini games (Rock Paper Scissors, etc.)</li>
-  <li>📋 Quiz app with scoring</li>
-  <li>🧠 Algorithmic problem sets</li>
-  <li>🧪 Test case integration using <code>unittest</code></li>
-</ul>
+### 🔹 [File I/O & Lambda Functions](./File-IO-Lambda-and-Functions)
 
-<hr>
+Advanced file handling and functional programming concepts.
 
-<h2>🛠 Technologies</h2>
-<ul>
-  <li>Python 3.10+</li>
-  <li>VS Code / Jupyter Notebook</li>
-  <li>Git & GitHub for version control</li>
-</ul>
+- **📂 File Comparison Tool**: Compare contents of two text files line by line.
+- **Todo List with Persistence**: Save tasks to a file so they persist after closing the app.
+- **Word Frequency Counter**: Analyze text files to count word occurrences.
+- **Lambda Calculator**: Quick calculations using anonymous functions.
 
-<hr>
+### 🔹 [Loops & Iterations](./Loops)
 
-<h2>👨‍💻 Author</h2>
-<p>
-<strong>Kankon Mondal</strong><br>
-🎓 Undergraduate @ KUET - Electronics & Communication Engineering<br>
-🌐 <a href="https://www.linkedin.com/in/kankon-mondal" target="_blank">LinkedIn</a><br>
-📂 <a href="https://github.com/KankonNil007" target="_blank">GitHub</a>
-</p>
+Strengthening logic with `for` and `while` loops.
 
-<hr>
+- **🔐 Login System**: Simulate a login process with limited attempts (3 tries).
+- **Multiplication Table Generator**: Print formatted tables for any number.
+- **Pattern Printing**: creating stars and number patterns.
+- **Digit Summer**: Calculate the sum of digits in a number.
 
-<h2>⭐️ How to Use</h2>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/KankonNil007/Python-Course.git</code></pre>
-  </li>
-  <li>Navigate into the exercises folder:
-    <pre><code>cd Python-Course/ChatGPT-Exercises</code></pre>
-  </li>
-  <li>Run a Python file:
-    <pre><code>python match_case/calculator.py</code></pre>
-  </li>
-</ol>
+### 🔹 [Control Flow & Functions](./If-Else-Conditions)
 
-<hr>
+Building decision-making logic and modular code.
 
-<h2>📌 Note</h2>
-<p>
-This is a personal learning repository. I’m regularly updating it as I learn new topics with ChatGPT's help.<br>
-Feel free to fork, star, or give suggestions! 🚀
-</p>
+- **Match-Case Scenarios**: Using Python 3.10+ `match` statements for clean logic.
+- **Function Parameters**: Understanding `*args`, `**kwargs`, and default values.
+- **Conditionals**: Complex `if-elif-else` chains for real-world scenarios.
+
+---
+
+## 🛠 Features of This Collection
+
+- **Progressive Difficulty**: Starts with basic prints/loops and moves to complex OOP systems.
+- **Real-World Scenarios**: Exercises mimic real tasks (e.g., banking, file management).
+- **Clean Code Practices**: Focus on readability, comments, and proper variable naming.
+- **AI-Guided**: Solutions often include explanations or alternative approaches suggested by ChatGPT.
+
+---
+
+## 🚀 How to Run an Exercise
+
+Every exercise is a standalone Python script.
+
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/KankonNil007/Python-Course.git
+    ```
+2.  **Navigate to the folder**:
+    ```bash
+    cd ChatGPT-Exercises/OOPs-in-Python
+    ```
+3.  **Run the script**:
+    ```bash
+    # Example: Running the Bank Account Manager
+    python bank-account-manager.py
+    ```
+
+---
+
+## 📌 Note
+
+This is a dynamic learning space. New exercises are added as I learn new topics or encounter interesting coding challenges.
+
+**Happy Coding! 🚀**
